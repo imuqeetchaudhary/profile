@@ -1,6 +1,6 @@
 # Responsive Portfolio
 
-## [Visit My Profile](https://imuqeetchaudhary.github.io/profile2/)
+## [Visit My Profile](https://imuqeetchaudhary.github.io/profile)
 
 ### Complete Responsive Portfolio
 

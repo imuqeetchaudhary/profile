@@ -431,7 +431,7 @@ img {
 	}
 }
 
-@media screen and (min-width: 390px) {
+@media screen and (min-width: 350px) {
 	.home {
 		padding: 4rem 0 2rem;
 		row-gap: 0rem;
